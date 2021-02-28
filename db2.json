@@ -1,0 +1,62 @@
+{
+  "PhoneModels": [
+    {
+      "id": 1,
+      "model": "Samsung Galaxy S21",
+      "description": "Android based smartphone released in March of",
+      "features": [
+        {"id":2,"name":"Update Device","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/check-for-install-software-update/1","desc":"Update Device"},
+        {"id":1,"name":"Factory Reset Device","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/reset-device-to-factory-settings-with-anti-theft/1","desc":"Factory Reset Device"},
+        {"id":3,"name":"Enter Recovery Mode","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/check-for-install-software-update/1","desc":"Enter Recovery Mode"}]},
+    {
+      "id": 2,
+      "model": "Samsung Galaxy Note 20",
+      "description": "It's Just A Phone",
+      "features": [
+        {"id":2,"name":"Update Device","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/check-for-install-software-update/1","desc":"Update Device"},
+        {"id":1,"name":"Factory Reset Device","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/reset-device-to-factory-settings-with-anti-theft/1","desc":"Factory Reset Device"},
+        {"id":3,"name":"Enter Recovery Mode","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/check-for-install-software-update/1","desc":"Enter Recovery Mode"}]},
+    {
+      "id": 3,
+      "model": "Samsung Galaxy S20",
+      "description": "It's Just A Phone",
+      "features": [
+        {"id":2,"name":"Update Device","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/check-for-install-software-update/1","desc":"Update Device"},
+        {"id":1,"name":"Factory Reset Device","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/reset-device-to-factory-settings-with-anti-theft/1","desc":"Factory Reset Device"},
+        {"id":3,"name":"Enter Recovery Mode","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/check-for-install-software-update/1","desc":"Enter Recovery Mode"}]},
+    {
+      "id": 4,
+      "model": "Samsung Galaxy S20 ULTRA",
+      "description": "It's Just A Phone",
+      "features": [
+        {"id":2,"name":"Update Device","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/check-for-install-software-update/1","desc":"Update Device"},
+        {"id":1,"name":"Factory Reset Device","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/reset-device-to-factory-settings-with-anti-theft/1","desc":"Factory Reset Device"},
+        {"id":3,"name":"Enter Recovery Mode","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/check-for-install-software-update/1","desc":"Enter Recovery Mode"}]},
+    {
+      "id": 5,
+      "model": "IPhone 12",
+      "description": "It's Just A Phone",
+      "features": [
+        {"id":2,"name":"Update Device","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/check-for-install-software-update/1","desc":"Update Device"},
+        {"id":1,"name":"Factory Reset Device","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/reset-device-to-factory-settings-with-anti-theft/1","desc":"Factory Reset Device"},
+        {"id":3,"name":"Enter Recovery Mode","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/check-for-install-software-update/1","desc":"Enter Recovery Mode"}]},
+    {
+      "id": 6,
+      "model": "IPhone 12 Pro",
+      "description": "It's Just A Phone",
+      "features": [
+        {"id":2,"name":"Update Device","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/check-for-install-software-update/1","desc":"Update Device"},
+        {"id":1,"name":"Factory Reset Device","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/reset-device-to-factory-settings-with-anti-theft/1","desc":"Factory Reset Device"},
+        {"id":3,"name":"Enter Recovery Mode","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/check-for-install-software-update/1","desc":"Enter Recovery Mode"}]},
+    {
+      "id": 7,
+      "model": "IPhone 12 Pro Max",
+      "description": "It's Just A Phone",
+      "features": [
+        {"id":2,"name":"Update Device","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/check-for-install-software-update/1","desc":"Update Device"},
+        {"id":1,"name":"Factory Reset Device","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/reset-device-to-factory-settings-with-anti-theft/1","desc":"Factory Reset Device"},
+        {"id":3,"name":"Enter Recovery Mode","url":"https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/check-for-install-software-update/1","desc":"Enter Recovery Mode"}]}
+
+
+  ]
+}

@@ -1,4 +1,62 @@
 {
+  "phones2": [
+    {
+      "id": 1,
+      "model": "Samsung Galaxy S20",
+      "description": "Android based smartphone released in March of",
+      "features": [
+        {
+          "id": 1,
+          "name": "Factory Reset Device",
+          "url": "https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/reset-device-to-factory-settings-with-anti-theft/1",
+          "desc": "Factory Reset Device",
+          "isEmployee": false
+        },
+        {
+          "id": 2,
+          "name": "Update Device",
+          "url": "https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/check-for-install-software-update/1",
+          "desc": "Update Device",
+          "isEmployee": false
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "model": "Samsung Galaxy S20",
+      "description": "Android based smartphone released in March of",
+      "features": [
+        {
+          "id": 1,
+          "name": "Factory Reset Device",
+          "url": "https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/reset-device-to-factory-settings-with-anti-theft/1",
+          "desc": "Factory Reset Device",
+          "isEmployee": false
+        },
+        {
+          "id": 2,
+          "name": "Update Device",
+          "url": "https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/check-for-install-software-update/1",
+          "desc": "Update Device",
+          "isEmployee": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "model": "Samsung Galaxy S21",
+      "description": "Android based smartphone released in Jan of 2",
+      "features": [
+        {
+          "id": 1,
+          "name": "Factory Reset Device",
+          "url": "https://www.t-mobile.com/support/tutorials?page=device/samsung/galaxy-s21-5g/topic/software-updates-amp-backup/reset-device-to-factory-settings-with-anti-theft/1",
+          "desc": "Factory Reset Device",
+          "isEmployee": false
+        }
+      ]
+    }
+  ],
   "features": [
     {
       "id": 11,
